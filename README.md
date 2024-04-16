@@ -19,7 +19,7 @@ This code describes the processing steps to generate consistent monthly area tim
 
 Calculating the area-elevation-storage relationship
 
-This code describes the calculation process to generate the one-to-one relationship between surface area, surface elevation, and active storage. This calculation is based on multiple DEMs (SRTM DEM, ALOS, ASTER, and COPDEM) and the water occurrence image from GSW. 
+This code describes the calculation process to generate the one-to-one relationship between surface area, surface elevation, and active storage. This calculation is based on multiple DEMs ([SRTM DEM](https://developers.google.com/earth-engine/datasets/catalog/NASA_NASADEM_HGT_001), [ALOS](https://developers.google.com/earth-engine/datasets/catalog/JAXA_ALOS_AW3D30_V3_2), [ASTER](https://gee-community-catalog.org/projects/aster/?h=aster), and [COPDEM](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)) and the water occurrence image from GSW. 
 
 **4_storage_calc.ipynb**
 
