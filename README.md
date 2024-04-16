@@ -1,5 +1,5 @@
 # Dryland
-This GitHub repository includes javascript and python code for calculating lake area/elevation/storage in global drylands.
+This GitHub repository includes javascript and python code for calculating lake area/elevation/storage in global drylands. The generated dataset can be accessed at [https://figshare.com/s/9b1ffa2dcc5b592897b3](https://figshare.com/s/9b1ffa2dcc5b592897b3). 
 
 **1_GEE_lakeAreas.js**
 
